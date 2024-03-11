@@ -1,2 +1,2 @@
 # Titanic
-Este repositório aborda a modelagem do desafio Titanic no Kaggle. Usei uma regressão logística com sucesso, explorando recursos do scikit-learn e Python. O notebook destaca ferramentas cruciais para cientistas de dados.
+Este repositório aborda a modelagem que realizei para o conhecido desafio do Titanic no Kaggle. O objetivo era prever se um indivíduo sobreviveria ou não com base nas características fornecidas. No notebook deste repositório, explorei diversas ferramentas interessantes disponíveis no scikit-learn e no ecossistema Python, proporcionando recursos valiosos para o desenvolvimento de modelos por cientistas de dados. Para este desafio específico, optei por utilizar uma regressão logística, alcançando resultados expressivos.
